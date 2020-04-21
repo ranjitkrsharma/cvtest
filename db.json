@@ -1,0 +1,115 @@
+[
+{
+"policyStatus": "Y",
+"tripType": "AMT",
+"id": "AMT123",
+"issueDate": "2020-02-10",
+"startDate": "2020-02-10",
+"endDate": "2020-04-10",
+"travelArea": "Europe",
+"previousPolicyNumber": "AMT123",
+"previousPolicyExpiryDate": "2020-02-10"
+},
+{
+"policyStatus": "Y",
+"tripType": "AMT",
+"id": "AMTNA123",
+"issueDate": "2020-03-17",
+"startDate": "2019-12-10",
+"endDate": "2020-01-10",
+"travelArea": "Europe",
+"previousPolicyNumber": "AMTNA123",
+"previousPolicyExpiryDate": "2019-11-10"
+},
+{
+"policyStatus": "Y",
+"tripType": "AMT",
+"id": "AMTNB123",
+"issueDate": "2020-03-10",
+"startDate": "2020-03-10",
+"endDate": "2020-11-10",
+"travelArea": "Europe",
+"previousPolicyNumber": "AMTNB123",
+"previousPolicyExpiryDate": null
+},
+{
+"policyStatus": "Y",
+"tripType": "AMT",
+"id": "AMTNC123",
+"issueDate": "2020-03-20",
+"startDate": "2019-03-20",
+"endDate": "2020-11-10",
+"travelArea": "Europe",
+"previousPolicyNumber": "AMTNC123",
+"previousPolicyExpiryDate": null
+},
+{
+"policyStatus": "Y",
+"tripType": "ST",
+"id": "STA123",
+"issueDate": "2020-03-06",
+"startDate": "2020-03-06",
+"endDate": "2020-05-10",
+"travelArea": "Europe",
+"previousPolicyNumber": "STA123",
+"previousPolicyExpiryDate": null
+},
+{
+"policyStatus": "Y",
+"tripType": "ST",
+"id": "STB123",
+"issueDate": "2020-03-20",
+"startDate": "2020-03-20",
+"endDate": "2020-05-10",
+"travelArea": "Europe",
+"previousPolicyNumber": "STB123",
+"previousPolicyExpiryDate": null
+},
+{
+"policyStatus": "Y",
+"tripType": "ST",
+"id": "STC123",
+"issueDate": "2020-04-01",
+"startDate": "2020-04-01",
+"endDate": "2020-11-10",
+"travelArea": "Europe",
+"previousPolicyNumber": "STC123",
+"previousPolicyExpiryDate": null
+},
+{
+"policyStatus": "Y",
+"tripType": "ST",
+"id": "SMS123",
+"issueDate": "2020-03-19",
+"startDate": "2020-28-06",
+"endDate": "2020-11-10",
+"travelArea": "Europe",
+"previousPolicyNumber": "STC123",
+"previousPolicyExpiryDate": null
+},
+{
+"policyStatus": "Y",
+"tripType": "ST",
+"id": "STBA123",
+"issueDate": "2020-03-15",
+"startDate": "2020-03-15",
+"endDate": "2020-11-10",
+"travelArea": "Europe",
+"previousPolicyNumber": "STC123",
+"previousPolicyExpiryDate": null
+},
+
+{
+"policyStatus": "Y",
+"tripType": "ST",
+"id": "STBA4002",
+"issueDate": "2020-07-15",
+"startDate": "2020-07-15",
+"endDate": "2020-11-10",
+"travelArea": "Europe",
+"previousPolicyNumber": "STBA4002",
+"previousPolicyExpiryDate": null
+}
+
+
+]
