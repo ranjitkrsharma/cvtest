@@ -98,6 +98,18 @@
 "travelArea": "Europe",
 "previousPolicyNumber": "STC123",
 "previousPolicyExpiryDate": null
+},
+
+{
+"policyStatus": "Y",
+"tripType": "ST",
+"id": "STBA4002",
+"issueDate": "2020-07-15",
+"startDate": "2020-07-15",
+"endDate": "2020-11-10",
+"travelArea": "Europe",
+"previousPolicyNumber": "STBA4002",
+"previousPolicyExpiryDate": null
 }
 ],
 "advisories": [
