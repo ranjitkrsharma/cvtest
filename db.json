@@ -1,4 +1,5 @@
-[
+{
+"policydetails": [
 {
 "policyStatus": "Y",
 "tripType": "AMT",
@@ -97,19 +98,96 @@
 "travelArea": "Europe",
 "previousPolicyNumber": "STC123",
 "previousPolicyExpiryDate": null
-},
-
-{
-"policyStatus": "Y",
-"tripType": "ST",
-"id": "STBA4002",
-"issueDate": "2020-07-15",
-"startDate": "2020-07-15",
-"endDate": "2020-11-10",
-"travelArea": "Europe",
-"previousPolicyNumber": "STBA4002",
-"previousPolicyExpiryDate": null
 }
-
-
+],
+"advisories": [
+{
+"date": "2020-03-27T00:00:00",
+"country": "Spain",
+"regions": [
+{
+"name": "Catalonia",
+"date": "2020-03-27T00:00:00",
+"locationType": "Region",
+"code": "DNT",
+"advice": "FCO advises against all but essential travel"
+},
+{
+"name": "Madrid",
+"date": "2020-03-27T00:00:00",
+"locationType": "Region",
+"code": "DNT",
+"advice": "FCO advises against all but essential travel"
+}
+],
+"code": "DNT",
+"advice": "FCO advises against all but essential travel"
+},
+{
+"date": "2020-03-10T00:00:00",
+"country": "Spain",
+"regions": [
+{
+"name": "Catalonia",
+"date": "2020-03-10T00:00:00",
+"locationType": "Region",
+"code": "DNT",
+"advice": "FCO advises against all but essential travel"
+}
+],
+"code": "DNT",
+"advice": "FCO advises against all but essential travel"
+},
+{
+"date": "2020-03-27T00:00:00",
+"country": "Italy",
+"regions": [
+{
+"name": "Lombardy",
+"date": "2020-02-21T00:00:00",
+"locationType": "Region",
+"code": "DNT",
+"advice": "FCO advises against all but essential travel"
+}
+],
+"code": null,
+"advice": null
+},
+{
+"date": "2020-04-12T00:00:00",
+"country": "Italy",
+"regions": [
+{
+"name": "Lombardy",
+"date": "2020-02-21T00:00:00",
+"locationType": "Region",
+"code": "DNT",
+"advice": "FCO advises against all but essential travel"
+}
+],
+"code": null,
+"advice": "FCO advises against all but essential travel"
+},
+{
+"date": "2020-03-27T00:00:00",
+"country": "France",
+"regions": [],
+"code": "DNT",
+"advice": "FCO advises against all but essential travel"
+}
+],
+"chatbotAnswers": [
+{
+"number": "1.0",
+"content": "Dummy chatbot content for 1.0",
+"SendLink": "false",
+"link": "/link/advice/1.0"
+},
+{
+"number": "1.1",
+"content": "Dummy chatbot content for 1.1",
+"SendLink": "false",
+"link": "/link/advice/1.1"
+}
 ]
+}
