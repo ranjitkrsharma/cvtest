@@ -1,205 +1,217 @@
 {
-"policydetails": [
-{
-"policyStatus": "Y",
-"tripType": "AMT",
-"id": "AMT123",
-"issueDate": "2020-02-10",
-"startDate": "2020-02-10",
-"endDate": "2020-04-10",
-"travelArea": "Europe",
-"previousPolicyNumber": "AMT123",
-"previousPolicyExpiryDate": "2020-02-10"
-},
-{
-"policyStatus": "Y",
-"tripType": "AMT",
-"id": "AMTNA123",
-"issueDate": "2020-03-17",
-"startDate": "2019-12-10",
-"endDate": "2020-01-10",
-"travelArea": "Europe",
-"previousPolicyNumber": "AMTNA123",
-"previousPolicyExpiryDate": "2019-11-10"
-},
-{
-"policyStatus": "Y",
-"tripType": "AMT",
-"id": "AMTNB123",
-"issueDate": "2020-03-10",
-"startDate": "2020-03-10",
-"endDate": "2020-11-10",
-"travelArea": "Europe",
-"previousPolicyNumber": "AMTNB123",
-"previousPolicyExpiryDate": null
-},
-{
-"policyStatus": "Y",
-"tripType": "AMT",
-"id": "AMTNC123",
-"issueDate": "2020-03-20",
-"startDate": "2019-03-20",
-"endDate": "2020-11-10",
-"travelArea": "Europe",
-"previousPolicyNumber": "AMTNC123",
-"previousPolicyExpiryDate": null
-},
-{
-"policyStatus": "Y",
-"tripType": "ST",
-"id": "STA123",
-"issueDate": "2020-03-06",
-"startDate": "2020-03-06",
-"endDate": "2020-05-10",
-"travelArea": "Europe",
-"previousPolicyNumber": "STA123",
-"previousPolicyExpiryDate": null
-},
-{
-"policyStatus": "Y",
-"tripType": "ST",
-"id": "STB123",
-"issueDate": "2020-03-20",
-"startDate": "2020-03-20",
-"endDate": "2020-05-10",
-"travelArea": "Europe",
-"previousPolicyNumber": "STB123",
-"previousPolicyExpiryDate": null
-},
-{
-"policyStatus": "Y",
-"tripType": "ST",
-"id": "STC123",
-"issueDate": "2020-04-01",
-"startDate": "2020-04-01",
-"endDate": "2020-11-10",
-"travelArea": "Europe",
-"previousPolicyNumber": "STC123",
-"previousPolicyExpiryDate": null
-},
-{
-"policyStatus": "Y",
-"tripType": "ST",
-"id": "SMS123",
-"issueDate": "2020-03-19",
-"startDate": "2020-28-06",
-"endDate": "2020-11-10",
-"travelArea": "Europe",
-"previousPolicyNumber": "STC123",
-"previousPolicyExpiryDate": null
-},
-{
-"policyStatus": "Y",
-"tripType": "ST",
-"id": "STBA123",
-"issueDate": "2020-03-15",
-"startDate": "2020-03-15",
-"endDate": "2020-11-10",
-"travelArea": "Europe",
-"previousPolicyNumber": "STC123",
-"previousPolicyExpiryDate": null
-},
+   "policydetails":[
+      {
+         "policyStatus":"Y",
+         "tripType":"AMT",
+         "id":"AMT123",
+         "issueDate":"2020-02-10",
+         "startDate":"2020-02-10",
+         "endDate":"2020-04-10",
+         "travelArea":"Europe",
+         "previousPolicyNumber":"AMT123",
+         "previousPolicyExpiryDate":"2020-02-10"
+      },
+      {
+         "policyStatus":"Y",
+         "tripType":"AMT",
+         "id":"AMTNA123",
+         "issueDate":"2020-03-17",
+         "startDate":"2019-12-10",
+         "endDate":"2020-01-10",
+         "travelArea":"Europe",
+         "previousPolicyNumber":"AMTNA123",
+         "previousPolicyExpiryDate":"2019-11-10"
+      },
+      {
+         "policyStatus":"Y",
+         "tripType":"AMT",
+         "id":"AMTNB123",
+         "issueDate":"2020-03-10",
+         "startDate":"2020-03-10",
+         "endDate":"2020-11-10",
+         "travelArea":"Europe",
+         "previousPolicyNumber":"AMTNB123",
+         "previousPolicyExpiryDate":null
+      },
+      {
+         "policyStatus":"Y",
+         "tripType":"AMT",
+         "id":"AMTNC123",
+         "issueDate":"2020-03-20",
+         "startDate":"2019-03-20",
+         "endDate":"2020-11-10",
+         "travelArea":"Europe",
+         "previousPolicyNumber":"AMTNC123",
+         "previousPolicyExpiryDate":null
+      },
+      {
+         "policyStatus":"Y",
+         "tripType":"ST",
+         "id":"STA123",
+         "issueDate":"2020-03-06",
+         "startDate":"2020-03-06",
+         "endDate":"2020-05-10",
+         "travelArea":"Europe",
+         "previousPolicyNumber":"STA123",
+         "previousPolicyExpiryDate":null
+      },
+      {
+         "policyStatus":"Y",
+         "tripType":"ST",
+         "id":"STB123",
+         "issueDate":"2020-03-20",
+         "startDate":"2020-03-20",
+         "endDate":"2020-05-10",
+         "travelArea":"Europe",
+         "previousPolicyNumber":"STB123",
+         "previousPolicyExpiryDate":null
+      },
+      {
+         "policyStatus":"Y",
+         "tripType":"ST",
+         "id":"STC123",
+         "issueDate":"2020-04-01",
+         "startDate":"2020-04-01",
+         "endDate":"2020-11-10",
+         "travelArea":"Europe",
+         "previousPolicyNumber":"STC123",
+         "previousPolicyExpiryDate":null
+      },
+      {
+         "policyStatus":"Y",
+         "tripType":"ST",
+         "id":"SMS123",
+         "issueDate":"2020-03-19",
+         "startDate":"2020-28-06",
+         "endDate":"2020-11-10",
+         "travelArea":"Europe",
+         "previousPolicyNumber":"STC123",
+         "previousPolicyExpiryDate":null
+      },
+      {
+         "policyStatus":"Y",
+         "tripType":"ST",
+         "id":"STBA123",
+         "issueDate":"2020-03-15",
+         "startDate":"2020-03-15",
+         "endDate":"2020-11-10",
+         "travelArea":"Europe",
+         "previousPolicyNumber":"STC123",
+         "previousPolicyExpiryDate":null
+      },
+      {
+         "policyStatus":"Y",
+         "tripType":"ST",
+         "id":"STBA4002",
+         "issueDate":"2020-07-15",
+         "startDate":"2020-07-15",
+         "endDate":"2020-11-10",
+         "travelArea":"Europe",
+         "previousPolicyNumber":"STBA4002",
+         "previousPolicyExpiryDate":null
+      },
+      {
+         "policyStatus":"Y",
+         "tripType":"ST",
+         "id":"STBA1503",
+         "issueDate":"2020-03-15",
+         "startDate":"2020-03-15",
+         "endDate":"2020-11-10",
+         "travelArea":"Europe",
+         "previousPolicyNumber":"STBA1503",
+         "previousPolicyExpiryDate":null
+      }
+   ],
+   "advisories":[
+      {
+         "date":"2020-03-27T00:00:00",
+         "country":"Spain",
+         "regions":[
+            {
+               "name":"Catalonia",
+               "date":"2020-03-27T00:00:00",
+               "locationType":"Region",
+               "code":"DNT",
+               "advice":"FCO advises against all but essential travel"
+            },
+            {
+               "name":"Madrid",
+               "date":"2020-03-27T00:00:00",
+               "locationType":"Region",
+               "code":"DNT",
+               "advice":"FCO advises against all but essential travel"
+            }
+         ],
+         "code":"DNT",
+         "advice":"FCO advises against all but essential travel"
+      },
+      {
+         "date":"2020-03-10T00:00:00",
+         "country":"Spain",
+         "regions":[
+            {
+               "name":"Catalonia",
+               "date":"2020-03-10T00:00:00",
+               "locationType":"Region",
+               "code":"DNT",
+               "advice":"FCO advises against all but essential travel"
+            }
+         ],
+         "code":"DNT",
+         "advice":"FCO advises against all but essential travel"
+      },
+      {
+         "date":"2020-03-27T00:00:00",
+         "country":"Italy",
+         "regions":[
+            {
+               "name":"Lombardy",
+               "date":"2020-02-21T00:00:00",
+               "locationType":"Region",
+               "code":"DNT",
+               "advice":"FCO advises against all but essential travel"
+            }
+         ],
+         "code":null,
+         "advice":null
+      },
+      {
+         "date":"2020-04-12T00:00:00",
+         "country":"Italy",
+         "regions":[
+            {
+               "name":"Lombardy",
+               "date":"2020-02-21T00:00:00",
+               "locationType":"Region",
+               "code":"DNT",
+               "advice":"FCO advises against all but essential travel"
+            }
+         ],
+         "code":null,
+         "advice":"FCO advises against all but essential travel"
+      },
+      {
+         "date":"2020-03-27T00:00:00",
+         "country":"France",
+         "regions":[
 
-{
-"policyStatus": "Y",
-"tripType": "ST",
-"id": "STBA4002",
-"issueDate": "2020-07-15",
-"startDate": "2020-07-15",
-"endDate": "2020-11-10",
-"travelArea": "Europe",
-"previousPolicyNumber": "STBA4002",
-"previousPolicyExpiryDate": null
-}
-],
-"advisories": [
-{
-"date": "2020-03-27T00:00:00",
-"country": "Spain",
-"regions": [
-{
-"name": "Catalonia",
-"date": "2020-03-27T00:00:00",
-"locationType": "Region",
-"code": "DNT",
-"advice": "FCO advises against all but essential travel"
-},
-{
-"name": "Madrid",
-"date": "2020-03-27T00:00:00",
-"locationType": "Region",
-"code": "DNT",
-"advice": "FCO advises against all but essential travel"
-}
-],
-"code": "DNT",
-"advice": "FCO advises against all but essential travel"
-},
-{
-"date": "2020-03-10T00:00:00",
-"country": "Spain",
-"regions": [
-{
-"name": "Catalonia",
-"date": "2020-03-10T00:00:00",
-"locationType": "Region",
-"code": "DNT",
-"advice": "FCO advises against all but essential travel"
-}
-],
-"code": "DNT",
-"advice": "FCO advises against all but essential travel"
-},
-{
-"date": "2020-03-27T00:00:00",
-"country": "Italy",
-"regions": [
-{
-"name": "Lombardy",
-"date": "2020-02-21T00:00:00",
-"locationType": "Region",
-"code": "DNT",
-"advice": "FCO advises against all but essential travel"
-}
-],
-"code": null,
-"advice": null
-},
-{
-"date": "2020-04-12T00:00:00",
-"country": "Italy",
-"regions": [
-{
-"name": "Lombardy",
-"date": "2020-02-21T00:00:00",
-"locationType": "Region",
-"code": "DNT",
-"advice": "FCO advises against all but essential travel"
-}
-],
-"code": null,
-"advice": "FCO advises against all but essential travel"
-},
-{
-"date": "2020-03-27T00:00:00",
-"country": "France",
-"regions": [],
-"code": "DNT",
-"advice": "FCO advises against all but essential travel"
-}
-],
-"chatbotAnswers": [
-{
-"number": "1.0",
-"content": "Dummy chatbot content for 1.0",
-"SendLink": "false",
-"link": "/link/advice/1.0"
-},
-{
-"number": "1.1",
-"content": "Dummy chatbot content for 1.1",
-"SendLink": "false",
-"link": "/link/advice/1.1"
-}
-]
+         ],
+         "code":"DNT",
+         "advice":"FCO advises against all but essential travel"
+      }
+   ],
+   "chatbotAnswers":[
+      {
+         "number":"1.0",
+         "content":"Dummy chatbot content for 1.0",
+         "SendLink":"false",
+         "link":"/link/advice/1.0"
+      },
+      {
+         "number":"1.1",
+         "content":"Dummy chatbot content for 1.1",
+         "SendLink":"false",
+         "link":"/link/advice/1.1"
+      }
+   ]
 }
