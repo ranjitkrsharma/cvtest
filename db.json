@@ -25,12 +25,12 @@
       {
          "policyStatus":"Y",
          "tripType":"AMT",
-         "id":"AMTNB123",
+         "id":"80000123",
          "issueDate":"2020-03-10",
          "startDate":"2020-03-10",
          "endDate":"2020-11-10",
          "travelArea":"Europe",
-         "previousPolicyNumber":"AMTNB123",
+         "previousPolicyNumber":"80000123",
          "previousPolicyExpiryDate":null
       },
       {
