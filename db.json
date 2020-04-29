@@ -11,6 +11,29 @@
       "previousPolicyNumber": "80000001",
       "previousPolicyExpiryDate": "2020-02-10"
     },
+     {
+      "policyStatus": "N",
+      "tripType": "AMT",
+      "id": "82000001",
+      "issueDate": "2020-02-10",
+      "startDate": "2020-02-10",
+      "endDate": "2020-04-10",
+      "travelArea": "Europe",
+      "previousPolicyNumber": "80000001",
+      "previousPolicyExpiryDate": "2020-02-10"
+    },
+    {
+      "policyStatus": "N",
+      "tripType": "AMT",
+      "id": "82000002",
+      "issueDate": "2020-04-11",
+      "startDate": "2020-04-11",
+      "endDate": "2020-05-10",
+      "travelArea": "Europe",
+      "previousPolicyNumber": "82000001",
+      "previousPolicyExpiryDate": "2020-04-10"
+    }
+    ,
     {
       "policyStatus": "Y",
       "tripType": "AMT",
