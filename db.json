@@ -35,7 +35,7 @@
     }
     ,
     {
-      "policyStatus": "Y",
+      "policyStatus": "N",
       "tripType": "AMT",
       "id": "80000002",
       "issueDate": "2020-02-10T00:00:00",
@@ -46,7 +46,7 @@
       "previousPolicyExpiryDate": "2020-02-10T23:59:59"
     },
     {
-      "policyStatus": "Y",
+      "policyStatus": "N",
       "tripType": "AMT",
       "id": "80000003",
       "issueDate": "2020-03-17",
@@ -68,7 +68,7 @@
       "previousPolicyExpiryDate": null
     },
     {
-      "policyStatus": "Y",
+      "policyStatus": "N",
       "tripType": "AMT",
       "id": "80000005",
       "issueDate": "2020-03-20",
@@ -90,7 +90,7 @@
       "previousPolicyExpiryDate": null
     },
     {
-      "policyStatus": "Y",
+      "policyStatus": "N",
       "tripType": "ST",
       "id": "80000007",
       "issueDate": "2020-03-20",
@@ -101,7 +101,7 @@
       "previousPolicyExpiryDate": null
     },
     {
-      "policyStatus": "Y",
+      "policyStatus": "N",
       "tripType": "ST",
       "id": "80000008",
       "issueDate": "2020-04-01",
@@ -112,7 +112,7 @@
       "previousPolicyExpiryDate": null
     },
     {
-      "policyStatus": "Y",
+      "policyStatus": "N",
       "tripType": "ST",
       "id": "80000009",
       "issueDate": "2020-03-19",
@@ -123,7 +123,7 @@
       "previousPolicyExpiryDate": null
     },
     {
-      "policyStatus": "Y",
+      "policyStatus": "N",
       "tripType": "ST",
       "id": "80000010",
       "issueDate": "2020-03-15",
@@ -134,7 +134,7 @@
       "previousPolicyExpiryDate": null
     },
     {
-      "policyStatus": "Y",
+      "policyStatus": "N",
       "tripType": "ST",
       "id": "80000012",
       "issueDate": "2020-07-15",
@@ -145,7 +145,7 @@
       "previousPolicyExpiryDate": null
     },
     {
-      "policyStatus": "Y",
+      "policyStatus": "N",
       "tripType": "ST",
       "id": "80000011",
       "issueDate": "2020-03-15",
