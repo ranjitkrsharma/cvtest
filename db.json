@@ -1,7 +1,7 @@
 {
   "policydetails": [
     {
-      "policyStatus": "Y",
+      "policyStatus": "N",
       "tripType": "AMT",
       "id": "80000001",
       "issueDate": "2020-02-10",
