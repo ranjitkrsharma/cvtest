@@ -15,35 +15,35 @@
       "policyStatus": "N",
       "tripType": "AMT",
       "id": "82000001",
-      "issueDate": "2020-02-10",
-      "startDate": "2020-02-10",
-      "endDate": "2020-04-10",
+      "issueDate": "2020-02-10T00:00:00",
+      "startDate": "2020-02-10T00:00:00",
+      "endDate": "2020-04-10T23:59:59",
       "travelArea": "Europe",
       "previousPolicyNumber": "80000001",
-      "previousPolicyExpiryDate": "2020-02-10"
+      "previousPolicyExpiryDate": "2020-02-10T23:59:59"
     },
     {
       "policyStatus": "N",
       "tripType": "AMT",
       "id": "82000002",
-      "issueDate": "2020-04-11",
-      "startDate": "2020-04-11",
-      "endDate": "2020-05-10",
+      "issueDate": "2020-04-11T00:00:00",
+      "startDate": "2020-04-11T00:00:00",
+      "endDate": "2020-05-10T23:59:59",
       "travelArea": "Europe",
       "previousPolicyNumber": "82000001",
-      "previousPolicyExpiryDate": "2020-04-10"
+      "previousPolicyExpiryDate": "2020-04-10T23:59:59"
     }
     ,
     {
       "policyStatus": "Y",
       "tripType": "AMT",
       "id": "80000002",
-      "issueDate": "2020-02-10",
-      "startDate": "2020-02-10",
-      "endDate": "2020-08-10",
+      "issueDate": "2020-02-10T00:00:00",
+      "startDate": "2020-02-10T00:00:00",
+      "endDate": "2020-08-10T23:59:59",
       "travelArea": "Europe",
       "previousPolicyNumber": "80000002",
-      "previousPolicyExpiryDate": "2020-02-10"
+      "previousPolicyExpiryDate": "2020-02-10T23:59:59"
     },
     {
       "policyStatus": "Y",
