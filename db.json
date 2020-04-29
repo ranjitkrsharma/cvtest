@@ -57,7 +57,7 @@
       "previousPolicyExpiryDate": "2019-11-10"
     },
     {
-      "policyStatus": "Y",
+      "policyStatus": "N",
       "tripType": "AMT",
       "id": "80000004",
       "issueDate": "2020-03-10",
@@ -79,7 +79,7 @@
       "previousPolicyExpiryDate": null
     },
     {
-      "policyStatus": "Y",
+      "policyStatus": "N",
       "tripType": "ST",
       "id": "80000006",
       "issueDate": "2020-03-15",
