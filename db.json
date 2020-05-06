@@ -110,7 +110,31 @@
       "travelArea": "Europe",
       "previousPolicyNumber": "80000008",
       "previousPolicyExpiryDate": null
+    }
+    ,
+    {
+      "policyStatus": "N",
+      "tripType": "ST",
+      "id": "90000001",
+      "issueDate": "2020-03-09",
+      "startDate": "2020-03-10",
+      "endDate": "2020-11-10",
+      "travelArea": "Europe",
+      "previousPolicyNumber": "90000001",
+      "previousPolicyExpiryDate": null
     },
+    {
+      "policyStatus": "N",
+      "tripType": "ST",
+      "id": "90000002",
+      "issueDate": "2020-03-20",
+      "startDate": "2020-03-21",
+      "endDate": "2020-11-10",
+      "travelArea": "Europe",
+      "previousPolicyNumber": "90000001",
+      "previousPolicyExpiryDate": null
+    }
+    ,
     {
       "policyStatus": "N",
       "tripType": "ST",
