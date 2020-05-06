@@ -202,6 +202,22 @@
       ],
       "code": "DNT",
       "advice": "FCO advises against all but essential travel"
+    }
+    ,
+    {
+      "date": "2020-03-09T00:00:00",
+      "country": "Spain",
+      "regions": [
+        {
+          "name": "Catalonia",
+          "date": "2020-03-09T00:00:00",
+          "locationType": "Region",
+          "code": "DNT",
+          "advice": "FCO advises against all but essential travel"
+        }
+      ],
+      "code": "DNT",
+      "advice": "FCO advises against all but essential travel"
     },
     {
       "date": "2020-03-10T00:00:00",
